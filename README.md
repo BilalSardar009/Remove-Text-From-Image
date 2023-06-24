@@ -1,0 +1,1 @@
+# Remove-Text-From-Image
