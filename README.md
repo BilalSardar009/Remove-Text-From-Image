@@ -17,6 +17,7 @@ Make sure you have the following dependencies installed:
    git clone https://github.com/BilalSardar009/Remove-Text-From-Image
    ```
 2. Run the python script:
-```bash
-python RemoveText.py 
-```
+   ```bash
+   python RemoveText.py 
+   ```
+3. It will create a new image named as text_removed_image.jpg
