@@ -21,3 +21,6 @@ Make sure you have the following dependencies installed:
    python RemoveText.py 
    ```
 3. It will create a new image named as text_removed_image.jpg
+
+## Example
+![Input Image:](https://github.com/BilalSardar009/Remove-Text-From-Image/blob/main/Removing%20Text%20From%20image/1.jpg)
