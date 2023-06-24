@@ -24,9 +24,10 @@ Make sure you have the following dependencies installed:
 
 ## Example
 1. Input Image:
-2. 
+
 ![Input Image:](https://github.com/BilalSardar009/Remove-Text-From-Image/blob/main/Removing%20Text%20From%20image/1.jpg)
-3. Output Image:
-4. 
+
+2. Output Image:
+
 ![Output Image](https://github.com/BilalSardar009/Remove-Text-From-Image/blob/main/Removing%20Text%20From%20image/text_removed_image.jpg)
 
